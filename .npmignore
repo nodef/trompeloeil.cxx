@@ -1,0 +1,9 @@
+.github/
+compilation_errors/
+docs/
+test/
+_config.yml
+.gitattributes
+ChangeLog
+check_errors.sh
+verify_compilation_error.sh

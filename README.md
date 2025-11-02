@@ -16,7 +16,19 @@ Get: [![Conan](https://img.shields.io/badge/on-conan-blue.svg)](https://conan.io
 
 # What is it?
 
-A thread-safe header-only mocking framework for C++11/14 using the Boost Software License 1.0
+A thread-safe header-only mocking framework for C++11/14 using the Boost Software License 1.0, by [Björn Fahller](https://github.com/rollbear).
+
+# Installation
+
+Run:
+```bash
+$ npm i trompeloeil.cxx
+```
+
+And then include `trompeloeil.hpp` as follows:
+```c
+#include "node_modules/trompeloeil.cxx/include/trompeloeil.hpp"
+```
 
 # Documentation
 
@@ -176,3 +188,10 @@ be found in
 | [![Using Trompeloeil, a Mocking Framework for Modern C++](https://img.youtube.com/vi/vvQ-kK4coYM/mqdefault.jpg)](https://www.youtube.com/watch?v=vvQ-kK4coYM)| *Using Trompeloeil, a Mocking Framework for Modern C++*, by Björn Fahller from NDC{Oslo} 2017 (52m) [(Slides)](https://speakerdeck.com/rollbear/ndc-oslo-using-trompeloeil-a-mocking-framework-for-modern-c-plus-plus) |
 | [![Using Trompeloeil, a Mocking Framework for Modern C++](https://img.youtube.com/vi/HCh6cs9nXt0/mqdefault.jpg)](https://www.youtube.com/watch?v=HCh6cs9nXt0) | *Using Trompeloeil, a Mocking Framework for Modern C++*, Detailed presentation by Björn Fahller from ACCU 2017 (1h25m) [(Slides with extra material)](https://speakerdeck.com/rollbear/using-trompeloeil-a-mocking-framework-for-modern-c-plus-plus) |
 | [![Packporting to the future](https://img.youtube.com/vi/KKvSVyZ4_5k/mqdefault.jpg)](https://www.youtube.com/watch?v=KKvSVyZ4_5k) | *Backporting to the Future*, Detailing the C++11 API and how it came to be, by Andrew Paxie from Pacific++ 2018 (53m) [(Slides)](https://github.com/pacificplusplus/conference/blob/master/slides-2018/backporting-to-the-future/slides.pdf) |
+
+<br>
+<br>
+
+
+[![ORG](https://img.shields.io/badge/org-nodef-green?logo=Org)](https://nodef.github.io)
+![](https://ga-beacon.deno.dev/G-RC63DPBH3P:SH3Eq-NoQ9mwgYeHWxu7cw/github.com/nodef/trompeloeil.cxx)
