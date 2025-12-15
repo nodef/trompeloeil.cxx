@@ -1,0 +1,22 @@
+{
+  "name": "trompeloeil.cxx",
+  "version": "49.0.0",
+  "description": "Header only C++14 mocking framework; Björn Fahller (2014).",
+  "keywords": [
+    "c++",
+    "library",
+    "mocking",
+    "testing",
+    "header-only"
+  ],
+  "homepage": "https://github.com/nodef/trompeloeil.cxx#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/trompeloeil.cxx/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/trompeloeil.cxx.git"
+  },
+  "license": "BSL-1.0",
+  "main": "trompeloeil.h"
+}
